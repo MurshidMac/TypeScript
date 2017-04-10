@@ -1,0 +1,23 @@
+{
+  "name": "coursework2",
+  "version": "1.0.0",
+  "description": "This is the project to create a simple signin and signup",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Murshid')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MurshidMac/TypeScript.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Javascript"
+  ],
+  "author": "MurshidHassen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MurshidMac/TypeScript/issues"
+  },
+  "homepage": "https://github.com/MurshidMac/TypeScript#readme"
+}
